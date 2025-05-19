@@ -1,4 +1,16 @@
 /* Main stylesheet */
+.subscribe-btn {
+  background-color: #4CAF50;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.subscribe-btn:hover {
+  background-color: #45a049;
+}
+
 body.dark-mode {
   background-color: #121212;
   color: #f0f0f0;
